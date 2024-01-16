@@ -11,7 +11,7 @@
       <h1 class="display-4">Customer Catalog</h1>
       <p class="lead">Customer Catalog Sample Application</p>
       <hr class="my-4">
-      <p>PHP sample application connected to a Cambio database to list a customer catalog</p>
+      <p>PHP sample application connected to a MySQL database to list a customer catalog</p>
     </div>
     <table class="table table-striped table-responsive">
       <thead>
